@@ -1,4 +1,5 @@
-# Kaprekar's Constant 6174
+<h1 align="center"> :vertical_traffic_light: Kaprekar's Constant 6174 </h1>
+
 There is a rule in Math that applies to 4 digit numbers. for each 4 digit number that is not made of all repetitive numbers,and not start with zero.if you subtract the ascending order of that number from the descending order of it, it will eventually end up in Kaprekar's Constant which is 6174.
 
 let's take 2718we take the ascending order from the descending one, and repeat the whole process we will get this:
